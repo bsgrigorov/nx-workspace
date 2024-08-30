@@ -1,0 +1,6 @@
+go 1.22
+
+use (
+	./apps/data-access
+	./apps/go-api
+)
